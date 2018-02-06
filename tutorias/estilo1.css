@@ -1,0 +1,81 @@
+*
+{
+	padding: 5px;
+}
+/*=============INDEX==============*/
+/*Icono*/
+.si
+{
+	font-size: 70px;
+}
+/*body*/
+body
+{
+	background-image: url(img/admin-oscura.jpg);
+	background-size: cover;
+}
+/*titulo*/
+#botones
+{
+	background-color: rgba(255,255,255,0.25);
+}
+.mimi
+{
+	font-family: 'mimich';
+	color: #FFF;
+	font-size: 50px;
+}
+
+.choose
+{
+	background-color:#FFF; 
+}
+
+/*============LOGIN============*/
+#uno
+{
+	background: url(img/rio-oscura.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: contain;
+	width: 100%;
+	height: 700px; 
+	/*background: #000;*/
+}
+
+#formul
+{
+	background-color: #FFF;
+	height: 280px;
+    padding: 20px;
+}
+#fila
+{
+	padding-top: 150px;
+}
+
+@font-face
+{
+	font-family: 'mimich';
+	src: url('./tipografia/mimich.ttf'); 
+}
+@font-face
+{
+	font-family: 'Miraculous';
+	src: url('./tipografia/Miraculous&Christmas.ttf'); 
+}
+@font-face
+{
+	font-family: 'MotionPicture';
+	src: url('./tipografia/MotionPicture_PersonalUseOnly.ttf'); 
+}
+@font-face
+{
+	font-family: 'Remachine';
+	src: url('./tipografia/RemachineScript_Personal_Use.ttf'); 
+}
+@font-face
+{
+	font-family: 'Courgette';
+	src: url('./tipografia/Courgette-Regular.ttf'); 
+}
